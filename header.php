@@ -17,6 +17,7 @@ session_start();
 	<a href="index.php">Users</a>
     <a href="UsersLog.php">Users Log</a>
     <a href="ManageUsers.php">Manage Users</a>
+    <a href = "http://127.0.0.1:5000/" target = "_blank">Face Recognition</a>
     <a href="javascript:void(0);" class="icon" onclick="navFunction()">
 	  <i class="fa fa-bars"></i></a>
 </div>
